@@ -6,6 +6,8 @@ For this challenge I was tasked with creaing a functioning weather app with help
 I first ran into issues with API's when I started this challenge so I scraped my orignal code and started over with my current knowledge of code.
 This weather app allows the user to type in a city and then see the temperature, humidity, wind speed and UV Index.
 The user is also able to see the forecast for the next 5 days.
+https://emilyshea94.github.io/Weather-Forcaster/
+
 ![Weather-Dashboard](https://github.com/emilyshea94/Weather-Forcaster/assets/144382382/e6625cc3-11a0-490f-92e6-580383bcd69a)
 
 
