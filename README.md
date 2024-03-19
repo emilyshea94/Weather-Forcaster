@@ -10,6 +10,7 @@ The user is also able to see the forecast for the next 5 days.
 
 
 
+
 ## Usage
 When the user enters the name of a city into the search bar then *clicks* the "magnifying glass", they are then presented with the weather forcast for that city.
 The city is then logged for future viewing.
@@ -17,6 +18,10 @@ If the user wishes to remove the city from their search all they have to do is *
 
 
 ## License
-
 The MIT License (MIT)
+
+Copyright (c) Emily
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
 
