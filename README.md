@@ -18,6 +18,10 @@ When the user enters the name of a city into the search bar then *clicks* the "m
 The city is then logged for future viewing.
 If the user wishes to remove the city from their search all they have to do is *click* the orange "clear" button. 
 
+## Credits
+I used some code from stack overflow and from a tutor from EDX tutoring.
+
+
 
 ## License
 The MIT License (MIT)
